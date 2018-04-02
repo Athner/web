@@ -28,11 +28,11 @@ a:link, a:visited, a:hover, a:active {
  * -------------------------------- */
 .header{
   width: 100%;
-  background-color: #98605e;
+  background-color: #EAD49A;
 }
 .header .title{
   width: 100%;
-  height: 200px;
+  height: 80px;
   padding: 28px 0 10px;
   font-size: 5.0rem;
   color: #ffffff;

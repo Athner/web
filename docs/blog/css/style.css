@@ -27,14 +27,14 @@ h1 {
 h2 {
   font-size: 2.0rem;
   padding: 0.4em 0.5em;/*文字の上下 左右の余白*/
+  margin-bottom: 1.5rem;
   color: #494949;/*文字色*/
   background: #f4f4f4;/*背景色*/
-  margin-bottom: 1.0rem;
   border-left: solid 5px #43A7B9;/*左線*/
   border-bottom: solid 3px #d7d7d7;/*下線*/
 }
 p{
-  padding: 2.0rem;
+  padding: 1.5rem;
 }
 /* --------------------------------
  * parts
